@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/user/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/user/.config'
+let g:netrw_dirhist_3='/Users/user/.oh-my-zsh'
+let g:netrw_dirhist_4='/Users/user/.vscode'
+let g:netrw_dirhist_5='/Users/user/.vscode/extensions'
